@@ -4,7 +4,6 @@
 @import 'libs';
 @import 'reset';
 @import 'global';
-@import 'catalog-page';
 
 .header-top {
 	padding: 14px 0;
@@ -1212,7 +1211,7 @@
 	}
 }
 
-
+@import 'catalog-page';
 
 
 @import 'media';
